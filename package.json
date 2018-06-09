@@ -1,0 +1,20 @@
+{
+  "name": "slack-bot",
+  "version": "1.0.0",
+  "description": "Bot that tells jokes",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "Slack",
+    "bot",
+    "jokes"
+  ],
+  "author": "Vojtech Oupicky",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "slackbots": "^1.1.0"
+  }
+}
